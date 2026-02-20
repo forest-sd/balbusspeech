@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://balbusspeech.pages.dev/sitemap.xml
